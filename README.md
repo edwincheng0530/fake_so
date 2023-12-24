@@ -44,3 +44,8 @@ Username: yuhang <br>
 Reputation: 0 <br>
 **email: yu@gmail.com <br>
 password: 316** <br>
+
+<img width="1512" alt="image" src="https://github.com/edwincheng0530/fake_so/assets/101299734/3882e229-b8f8-42e4-ad10-cd5432d5f563">
+<img width="1510" alt="image" src="https://github.com/edwincheng0530/fake_so/assets/101299734/2a4ad8b3-432d-4480-8952-93a868ab1fc0">
+
+
