@@ -1,4 +1,4 @@
-#Fake Stack Overflow
+# Fake Stack Overflow
 This project is a replica of Stack Overflow, providing users with functionalities to ask questions, answer queries, and view all questions available on the platform.
 
 ## Features
@@ -31,9 +31,10 @@ In _client_ directory
 
 ### Run init.js in _server_ directory via:
 
-node init.js <admin_username> <admin_password> <br>
-The email for this admin is: admin@gmail.com. <br><br>
-Two extra users will also be automatically created upon running this: <br>
+node init.js <admin_username> <admin_password>  
+The email for this admin is: admin@gmail.com.
+
+Two extra users will also be automatically created upon running this:  
 Username: edwin <br>
 Reputation: 50 <br>
 **email: ed@gmail.com <br>
