@@ -1,0 +1,104 @@
+/* Add your CSS here */
+body {
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: baseline;
+    height: 100vh;
+    background-color: lightgray;
+}
+
+.title_and_login {
+    display: flex;
+    gap: 45px;
+
+    /* border: 1px black solid; */
+}
+
+.title_container {
+    margin-top: 25px;
+    height: 100%;
+    width: 300px;
+    /* border: 1px green solid; */
+}
+
+.title {
+    text-decoration: underline;
+    color: white;
+    font-size: 50px;
+    /* border: 1px solid red; */
+}
+
+.login-buttons{
+    display: flex;
+    flex-direction: column;
+    /* margin: 200px 0px 0px 150px; */
+    padding: 25px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+
+.login-buttons form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+
+.login-register {
+    display: flex;
+    justify-content: space-around;
+}
+
+.login-buttons button {
+    width: 100px;
+    height: 50px;
+}
+
+.acc_info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.acc_info input {
+    height: 25px;
+}
+
+.passwords {
+    display: flex;
+    gap: 10px;
+}
+
+.passwords input {
+    flex: 1;
+}
+
+#guest, #login, #register {
+    width: 100%;
+}
+
+#line-break {
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+
+.back {
+    display: flex;
+    justify-content: space-between;
+}
+
+.errorm {
+    max-width: 200px;
+    color: red;
+}
