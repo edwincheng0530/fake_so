@@ -46,6 +46,8 @@ Reputation: 0 <br>
 password: 316** <br>
 
 <img width="1512" alt="image" src="https://github.com/edwincheng0530/fake_so/assets/101299734/3882e229-b8f8-42e4-ad10-cd5432d5f563">
+<img width="1511" alt="image" src="https://github.com/edwincheng0530/fake_so/assets/101299734/bfd813d7-3854-4b1c-bedb-cd6a4b4af8d7">
+<img width="1512" alt="image" src="https://github.com/edwincheng0530/fake_so/assets/101299734/9dfb5db9-b357-446c-929e-dd3b9f3a5866">
 <img width="1510" alt="image" src="https://github.com/edwincheng0530/fake_so/assets/101299734/2a4ad8b3-432d-4480-8952-93a868ab1fc0">
 
 
